@@ -1,7 +1,7 @@
 {
     "name": "lushtech/my-magento2-vendor",
     "description": "Magento 2 (Open Source)",
-    "type": "project",
+    "type": "vcs",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
